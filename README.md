@@ -1,4 +1,4 @@
-Hello! Thank you for checking out my GitHub project. If you are here to evaluate my cloud-related skills, I reccomend checking out these repos as well:
+Hello! Thank you for checking out my GitHub project. If you are here to evaluate my cloud-related skills, I recommend checking out these repos as well:
 
 - https://github.com/HamBoneGS/InforChallengeJunior
 - https://github.com/HamBoneGS/InforSeniorChallenge-1
